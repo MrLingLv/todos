@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-viteproject-dev-113220-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418442514:role/amplify-viteproject-dev-113220-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418442514:role/amplify-viteproject-dev-113220-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-viteproject-dev-113220-deployment",
+      "UnauthRoleName": "amplify-viteproject-dev-113220-unauthRole",
+      "StackName": "amplify-viteproject-dev-113220",
+      "StackId": "arn:aws:cloudformation:us-east-1:905418442514:stack/amplify-viteproject-dev-113220/505161a0-af71-11ee-b2c8-0a106dd2b1a7",
+      "AmplifyAppId": "d3anxiaukvpe2h"
+    },
+    "categories": {
+      "api": {
+        "viteproject": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3anxiaukvpe2h",
+          "type": "manual"
+        }
+      },
+      "storage": {
+        "dynamo61e3d185": {}
+      },
+      "function": {
+        "getTodos": {
+          "deploymentBucketName": "amplify-viteproject-dev-113220-deployment",
+          "s3Key": "amplify-builds/getTodos-574a6d3163525544334a-build.zip"
+        }
+      }
+    }
+  }
+}
